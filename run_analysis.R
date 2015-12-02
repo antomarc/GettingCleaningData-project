@@ -9,9 +9,9 @@
 
 
 
-# (0) Preparing
+# (0) Preparing  In working directory "run_analysis.R" and "UCI HAR Dataset" 
 # getwd() 
-setwd("getdata_project") 
+# setwd("GettingCleaningData-project") 
 # dir()  # "run_analysis.R" "UCI HAR Dataset"
 # dir("./UCI HAR Dataset") # unzipped folder: "activity_labels.txt" "features.txt" ... "test" "train"
 
